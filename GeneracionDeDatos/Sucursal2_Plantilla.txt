@@ -1,0 +1,20 @@
+{
+  "fecha": "{{date 2023-01-01 2023-07-01}}",
+  "nro_sucursal": "0002",
+  "nro_ticket": "{{integer 20000, 29999}}",
+  "forma_de_pago": "{{oneof Débito Crédito Efectivo}}",
+  "nro_de_tarjeta": "{{creditcard}}",
+ "producto": [
+    {
+      "nombre_producto": "{{oneof Ibuprofeno Amoxicilina Ibuevanol Migral Keterolac Gillete Desodorante Dentifrico}}",
+      "cantidad": {{integer 1, 5}},
+      "precio": {{price 500, 2000}}
+    }
+  ],
+  "empleado_atencion": "{{oneof LuMendes FreidaCordero DannetteTimm SteveWood}}",
+  "empleado_caja": "{{oneof JenMata TomokoSettle}}",
+  "cliente": {
+    "nombre": "{{name}}",
+    "obra_social": "{{oneof Osecac Medicus OSDE Ninguna}}"
+  }
+}

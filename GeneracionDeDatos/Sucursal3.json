@@ -1,0 +1,3129 @@
+{
+	"lista_ventas": [
+		{
+			"fecha": "2023-05-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34453",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5128872017913759",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1343.82
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Kenya Howes",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-02",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32051",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3597912425482498",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1302.14
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Junie Altman-Bunker",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36110",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3814458578655510",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 689.65
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Corliss Mackenzie",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30326",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3522877892345520",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1547.43
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Irene Whitcomb",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-03-22",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36407",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3859098692554591",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 857.49
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Nelly Cooney",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-15",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30253",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3656983134990967",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 770.06
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Mariela Doan",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39592",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3758391773054685",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1500.17
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Nelda Adamson",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36596",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3537257055141443",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1367.86
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Katherine Otto",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-27",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37657",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3726321031942370",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 3,
+					"precio": 1967.96
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Jody Muir",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31457",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5330091493458968",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1696.98
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Sally Holly",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-03-03",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36844",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5346199238831832",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 1984.95
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Claris Lavoie",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-06-16",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30649",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5507772283464498",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1604.58
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Toney Rangel",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31647",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3609610584106293",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1232.66
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Marlena Portillo",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-26",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34185",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5347575393382849",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 1558.59
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Kyong Wetzel",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-03-29",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38635",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3868561239666764",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 728.4
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Vivienne Ware",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38189",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5117451214972233",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 688.7
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Barbara Pogue",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38234",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5145484198618703",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 1753.68
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Jan Dominguez",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-05-14",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36081",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5148769618451252",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 1657.17
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Donny Clement",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-14",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39408",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5329931760192610",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 1179.05
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Blaine Tapp",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-17",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30155",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3686647069584161",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 867.7
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Margrett Brandt",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-01-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34770",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3834918002245684",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1556.5
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Angelica Lindsay",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-12",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38241",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3575972230637445",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 1924
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Tomeka Cortes",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35567",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3716610885162687",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1745.15
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Daron Brill",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-04-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38299",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3886496920671370",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1820.53
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Dorethea Madigan",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-01-12",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35089",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "6514410103064300",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1527.47
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Bev Goble",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-02-15",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39247",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3777453186279483",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 685.35
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Giuseppina Stanley",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-03-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31152",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3780138518626021",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 718.14
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Belinda Mcmichael",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30815",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5119165429556933",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 999.38
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Daphine Marrero",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-03-31",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35420",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "4178845518082402",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1022.2
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Clay Holley",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35540",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5500826220402924",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 1540.5
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Earl Mayes",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32040",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "4407844484970917",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 906.86
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Althea Roden",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34889",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3485077853417498",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1888.21
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Deirdre Chestnut",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-01",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36142",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3852273516499266",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1172.11
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Sebastian Langley",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-26",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38178",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3868763490440985",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 609.9
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Ronny Burchfield",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-05-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33324",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "6011939943353850",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 675.57
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Junko Stull",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-04-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30462",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5582118197953655",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1086.62
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Theola Hoy",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-02-27",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30841",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3868544038837733",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 1634.94
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Teodora Colburn",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-11",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31859",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3820450063665552",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 962
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Sammy Newcomb",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36181",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "6011754254955345",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1989.11
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Alyce Otto",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-31",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38384",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3715508973007741",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1155.02
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Andre Pearson",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-30",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31307",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "6011430053573887",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 1084.62
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Elly Dahl",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-03-19",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31461",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5201039850005142",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 1402.73
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Lakenya Croteau",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-02-20",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39960",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3862162533849318",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1293.75
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Marisha Bundy",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-21",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33031",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5152376604266391",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 878.58
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Georgette Crockett",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-20",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32891",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "4170759128314117",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1246.82
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Emerson Monaco",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-05-11",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34840",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3588274608838577",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 645.55
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Bess Kenney",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-22",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32023",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "4429188708496727",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 3,
+					"precio": 1505.61
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Tiffani Mcinnis",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-14",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39280",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5281469559715716",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 807.18
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Vada Haugen",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-05-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33204",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5416488364250479",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 3,
+					"precio": 1685.25
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Leif Manzo",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38992",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3888403498996374",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 786.68
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Lester Gragg",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-01-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34938",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3887743788711872",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 1730.16
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Karoline Worley",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-03-31",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39566",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3484897264620144",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1756.32
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Sabra Tyner",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-04-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31295",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3653792324967597",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 1771.29
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Rudolf Redmon",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-06-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36254",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3651410060945892",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1936.52
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Patrice Yoon",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-30",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36379",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5409932154684673",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1899.47
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Ching Gallo",
+				"obra_social": "Osecac"
+			}
+		},
+				{
+			"fecha": "2023-06-03",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37371",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3717270870202080",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 864.61
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1662.48
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Isobel Hadden",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-24",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34278",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "4051963239770896",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 1417.75
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1847.47
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Kenya Sturm",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-01",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39687",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3439241707410893",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 3,
+					"precio": 595.53
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1275.02
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Lyndsay Benitez",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36021",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5439761560318576",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 1659.66
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1364.77
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Theda Aponte",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31130",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3528013556901872",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1502.27
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1722.01
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Zackary Beckwith",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-02-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35750",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3405650950442716",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1924.41
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1675.76
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Norberto Gerald",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-01-19",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30057",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3514038140406826",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 1369.89
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1605.76
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Charlesetta Conte",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-31",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34401",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "6548403397895994",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1114.58
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 553.66
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Winford Becker",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-30",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36962",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3719843009136878",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 1250.93
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 4,
+					"precio": 1725.84
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Dayle Pollack",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-03-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30293",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3686755481272158",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 812.34
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 1918.37
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Lakisha Wahl",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38319",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5353498689164489",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 1638.4
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 1304.93
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Dannette Escalante",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35080",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5437714605850925",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 973.69
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 680.81
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Ouida Fulmer",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-22",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34195",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3752494177930987",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1062.69
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 3,
+					"precio": 1568.47
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Wilson Nielson",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-16",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31350",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5232763072924310",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 897.78
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1651.32
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Felicitas Worthy",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32224",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5553512843736339",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 673.44
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 3,
+					"precio": 1280.35
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Gustavo Burnette",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-06-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33697",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "6011018055947878",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 946.76
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 1864.47
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Dorie Irby",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-30",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31279",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5171010788867501",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 1,
+					"precio": 708.73
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1605.66
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Glendora Winfrey",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33692",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3698458126220957",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1139.4
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1235.69
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Adelina Mahan",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33557",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5457396739199401",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 725.63
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 1736.21
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Keturah Frey-Nail",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35484",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3506589758610109",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 586.98
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1840.68
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Lessie Hargis",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35276",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5307521389900470",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1461.59
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 536.31
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Vanesa Leclair",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-05-13",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34273",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3580842249097477",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 564.57
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 613.17
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Priscilla Biddle",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-04-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37734",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3626881101147728",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 4,
+					"precio": 1092.28
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1669.5
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Izola Cardona",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-01",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38731",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3463125502913183",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1106.17
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 1,
+					"precio": 1774.68
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Ryan Ngo",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-10",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36886",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3443821361575183",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1904.93
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1101.33
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Louella Houck",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32001",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3575544039467666",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 618.5
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 894.24
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Dulcie Boling",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-12",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32404",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5348450389395708",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 893.08
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1360.66
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Terica Baughman",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-04-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38499",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5324889378929136",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 622.33
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 1603.18
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Kristeen Alger",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-27",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32951",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3660091247900415",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 802.1
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 1272.08
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Elden Lu",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-20",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31916",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5317903528431518",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1173.93
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1197.04
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Aubrey Madera",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-13",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38005",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5565301117957228",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 955.87
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1888.18
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Laticia Robinette",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-06",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37150",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3566405433376976",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1923.07
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1671.56
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Alesha Mckinley",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-01-03",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39875",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "4766675644796128",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 568.04
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1432.51
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Slyvia London",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-21",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35620",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5113614820616027",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 744.39
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 1223.1
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Doreatha Prescott",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32981",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "4699911921771675",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 579.68
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1009.09
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Darell Flora",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-06-23",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38844",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5488312945285232",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 1952.54
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1560.51
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Jani Slattery",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-06-10",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36091",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3569199315092548",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 1101.52
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 676.72
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Earnestine Hopson",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-01-10",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35714",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5344475048229929",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 3,
+					"precio": 514.43
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1732.11
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Deanne Lin",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-05-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38990",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3731315274984869",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1809.44
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 512.56
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Benny Sparrow",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37181",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "4942734597455139",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1421.82
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1229.03
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Danica Hindman",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-03-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38519",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "6505417710962525",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 685.75
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1173.93
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Walker Braswell",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-01-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39339",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3731087582150083",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1114.05
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 756.87
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Franklin Apple",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-19",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37018",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3867314193291551",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1399.67
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 964.62
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Hilda Mcmurray",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-02-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30249",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5409456800569276",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 1217.67
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 1696.67
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Shannan Bingham",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-21",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33639",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3423707348389499",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1903.28
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 1441.07
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Lyndsey Brant",
+				"obra_social": "Medicus"
+			}
+		},
+				{
+			"fecha": "2023-03-12",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39605",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5233191130823654",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1698.39
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 1869.76
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1490.88
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Henriette Kemper",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-28",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38704",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3855018587779558",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1151.19
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 751.05
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1946.02
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Yer Michels-Holt",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-18",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34955",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5347377819522883",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1548.75
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 901.81
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 1269.36
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Marjorie Cannon",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-06-12",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30676",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5164799381422254",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 589.83
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1928.83
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1084.05
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Merri Layman",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-31",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38542",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5582930238042580",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 841.59
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 937.69
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 2,
+					"precio": 1187.91
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Shavonne Kelly",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38622",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5324301185673011",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 902.38
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1166.65
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 605.13
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Kendrick Clemente",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-04-19",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31712",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3792983656884795",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 4,
+					"precio": 1622.41
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 521.52
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 881.44
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Ok Todd",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-06-28",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38423",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "3867081645216487",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 654.43
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1745.47
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 792.58
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Dorinda Hallman",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "35297",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5147296296737486",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1077.12
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 1497.25
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 1707.36
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Vinita Clarkson",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-05-07",
+			"nro_sucursal": "0003",
+			"nro_ticket": "38647",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3437986335763284",
+			"producto": [
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 948.06
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 2,
+					"precio": 1149.72
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 935.65
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Kathyrn Shanks",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-05-28",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36177",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "6548631779341448",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 3,
+					"precio": 1934.12
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 1,
+					"precio": 1357.17
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 1,
+					"precio": 1289.78
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Exie Harry",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-01-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "39472",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3446429509886315",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 1397.15
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1806.35
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1207.85
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Jolyn Hartmann",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-01-11",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32174",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5557443032581454",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 973.51
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 1622.7
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 1,
+					"precio": 1178.35
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Song Lindgren",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-08",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37969",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3543426494552411",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 688.18
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 625.69
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 2,
+					"precio": 1510.49
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Lorinda Casper",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-10",
+			"nro_sucursal": "0003",
+			"nro_ticket": "32707",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3500425478724622",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1855.69
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 1633.35
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 3,
+					"precio": 619.74
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Noemi Cornelius",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-06-25",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30786",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "4555664974147230",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 1476.43
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 4,
+					"precio": 1075.81
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 706.42
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Victorina Leatherman",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-03-21",
+			"nro_sucursal": "0003",
+			"nro_ticket": "34247",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5144630839115652",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 1599.38
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1865.79
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1798.79
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Henriette Morey",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-02-09",
+			"nro_sucursal": "0003",
+			"nro_ticket": "31770",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3672916499599686",
+			"producto": [
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 1,
+					"precio": 1809.83
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1118.74
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 4,
+					"precio": 1570.5
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Yolando Holtz",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-03-05",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37011",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5143725614384762",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 975.61
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 2,
+					"precio": 1995.27
+				},
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1925.13
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Mckenzie Weiner",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36178",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3759226269151437",
+			"producto": [
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 2,
+					"precio": 709.28
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 2,
+					"precio": 830.95
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 3,
+					"precio": 1860.4
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Prudence Seidel",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-01-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "37712",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "4939831659760291",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 4,
+					"precio": 1417.52
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 734.07
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1220.69
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Suzi Tremblay",
+				"obra_social": "Osecac"
+			}
+		},
+		{
+			"fecha": "2023-04-25",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30363",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5215389008353296",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 1265.61
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 4,
+					"precio": 536.1
+				},
+				{
+					"nombre_producto": "Migral",
+					"cantidad": 3,
+					"precio": 1225.18
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Tanner Singer",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-01-24",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33510",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3757406797316762",
+			"producto": [
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 1073.47
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 4,
+					"precio": 1825.24
+				},
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 2,
+					"precio": 1760.1
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Archie Feeney",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-03",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30096",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "5250479426474839",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 3,
+					"precio": 1801.05
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 2,
+					"precio": 1498.18
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 2,
+					"precio": 1424.72
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Sherell Corey",
+				"obra_social": "OSDE"
+			}
+		},
+		{
+			"fecha": "2023-05-04",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36776",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "5504637444566161",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 1952.3
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 3,
+					"precio": 1989.08
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 1195.87
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Cori Stapleton",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-15",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36852",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3741087717049952",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 4,
+					"precio": 1451.91
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 3,
+					"precio": 1155.62
+				},
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 2,
+					"precio": 1185.4
+				}
+			],
+			"empleado_atencion": "DarioGodinez",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Myrtice Bourgeois",
+				"obra_social": "Ninguna"
+			}
+		},
+		{
+			"fecha": "2023-02-03",
+			"nro_sucursal": "0003",
+			"nro_ticket": "30280",
+			"forma_de_pago": "Efectivo",
+			"nro_de_tarjeta": "3522641897101760",
+			"producto": [
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 1,
+					"precio": 667.09
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 1526.79
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1798.95
+				}
+			],
+			"empleado_atencion": "RamonaHalverson",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Caleb Daniel",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-02-19",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33301",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3775963520795062",
+			"producto": [
+				{
+					"nombre_producto": "Dentifrico",
+					"cantidad": 3,
+					"precio": 1242.33
+				},
+				{
+					"nombre_producto": "Gillete",
+					"cantidad": 1,
+					"precio": 707.21
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 4,
+					"precio": 1023.17
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Doyle Hoff",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-25",
+			"nro_sucursal": "0003",
+			"nro_ticket": "36318",
+			"forma_de_pago": "Crédito,",
+			"nro_de_tarjeta": "5564732862953646",
+			"producto": [
+				{
+					"nombre_producto": "Amoxicilina",
+					"cantidad": 1,
+					"precio": 1037.92
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 3,
+					"precio": 1327.04
+				},
+				{
+					"nombre_producto": "Ibuprofeno",
+					"cantidad": 2,
+					"precio": 1467.76
+				}
+			],
+			"empleado_atencion": "ScarlettElam",
+			"empleado_caja": "ElizebethWinn",
+			"cliente": {
+				"nombre": "Debbra Finch",
+				"obra_social": "Medicus"
+			}
+		},
+		{
+			"fecha": "2023-05-15",
+			"nro_sucursal": "0003",
+			"nro_ticket": "33073",
+			"forma_de_pago": "Débito,",
+			"nro_de_tarjeta": "3429692596530724",
+			"producto": [
+				{
+					"nombre_producto": "Desodorante",
+					"cantidad": 4,
+					"precio": 781.87
+				},
+				{
+					"nombre_producto": "Ibuevanol",
+					"cantidad": 4,
+					"precio": 1686.99
+				},
+				{
+					"nombre_producto": "Keterolac",
+					"cantidad": 2,
+					"precio": 1513.32
+				}
+			],
+			"empleado_atencion": "CarrolMcmanus",
+			"empleado_caja": "ChrystalDonnell",
+			"cliente": {
+				"nombre": "Rosalind Storey",
+				"obra_social": "Osecac"
+			}
+		}
+	]
+}
