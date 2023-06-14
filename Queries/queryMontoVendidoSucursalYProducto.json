@@ -1,0 +1,92 @@
+[
+  {
+    $addFields:
+      /**
+       * newField: The new field name.
+       * expression: The new field expression.
+       */
+      {
+        fecha_formato_date: {
+          $dateFromString: {
+            dateString: "$fecha",
+            format: "%Y-%m-%d",
+          },
+        },
+      },
+  },
+  {
+    $match:
+      /**
+       * query: The query in MQL.
+       */
+      {
+        fecha_formato_date: {
+          $gte: new Date("2023-01-01"),
+          $lte: new Date("2023-02-01"),
+        },
+      },
+  },
+  {
+    $project:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+      {
+        _id: "$nroSucursal",
+        listaProductos: "$listaProductos",
+        totalFactura: "$totalFactura",
+      },
+  },
+  {
+    $unwind:
+      /**
+       * path: Path to the array field.
+       * includeArrayIndex: Optional name for index.
+       * preserveNullAndEmptyArrays: Optional
+       *   toggle to unwind null and empty values.
+       */
+      {
+        path: "$listaProductos",
+        includeArrayIndex: "string",
+        preserveNullAndEmptyArrays: true,
+      },
+  },
+  {
+    $group:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+      {
+        _id: {
+          nro_sucursal: "$_id",
+          tipo_producto:
+            "$listaProductos.tipoProducto",
+        },
+        cantidad_ventas: {
+          $sum: "$totalFactura",
+        },
+      },
+  },
+  {
+    $sort:
+      /**
+       * Provide any number of field/order pairs.
+       */
+      {
+        cantidad_ventas: -1,
+      },
+  },
+  {
+    $project:
+      /**
+       * specifications: The fields to
+       *   include or exclude.
+       */
+      {
+        _id: 1,
+        cantidad_ventas: 1,
+      },
+  },
+]

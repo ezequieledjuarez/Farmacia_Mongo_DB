@@ -1,0 +1,51 @@
+[
+  {
+    $group:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+      {
+        _id: {
+          cliente: "$cliente.dni",
+          sucursal: "$nroSucursal",
+        },
+        total_ventas: {
+          $sum: 1,
+        },
+      },
+  },
+  {
+    $group:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+      {
+        _id: "$_id",
+        total_ventas: {
+          $sum: "$total_ventas",
+        },
+      },
+  },
+  {
+    $project:
+      /**
+       * specifications: The fields to
+       *   include or exclude.
+       */
+      {
+        _id: 1,
+        total_ventas: 1,
+      },
+  },
+  {
+    $sort:
+      /**
+       * Provide any number of field/order pairs.
+       */
+      {
+        total_ventas: 1,
+      },
+  },
+]

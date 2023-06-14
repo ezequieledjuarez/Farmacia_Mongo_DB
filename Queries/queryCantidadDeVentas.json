@@ -1,0 +1,74 @@
+[
+  {
+    $addFields:
+      /**
+       * newField: The new field name.
+       * expression: The new field expression.
+       */
+      {
+        fecha_formato_date: {
+          $dateFromString: {
+            dateString: "$fecha",
+            format: "%Y-%m-%d",
+          },
+        },
+      },
+  },
+  {
+    $match:
+      /**
+       * query: The query in MQL.
+       */
+      {
+        fecha_formato_date: {
+          $gte: new Date("2023-01-01"),
+          $lte: new Date("2023-02-01"),
+        },
+      },
+  },
+  {
+    $group:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+
+      {
+        _id: "$nroSucursal",
+        count: {
+          $sum: 1,
+        },
+      },
+  },
+  {
+    $group:
+      /**
+       * _id: The id of the group.
+       * fieldN: The first field name.
+       */
+      {
+        _id: null,
+        ventas: {
+          $push: {
+            sucursal: "$_id",
+            cantidad: "$count",
+          },
+        },
+        total_ventas: {
+          $sum: "$count",
+        },
+      },
+  },
+  {
+    $project:
+      /**
+       * specifications: The fields to
+       *   include or exclude.
+       */
+      {
+        _id: 0,
+        ventas: 1,
+        total_ventas: 1,
+      },
+  },
+]
