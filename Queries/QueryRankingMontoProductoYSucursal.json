@@ -1,5 +1,4 @@
 // 5. Ranking de monto vendido, agrupado por producto y por sucursal.
-
 [
   {
     $addFields:
@@ -35,8 +34,8 @@
        * fieldN: The first field name.
        */
       {
-        _id: "$nro_sucursal",
-        listaProductos: "$lista_productos",
+        _id: "$nroSucursal",
+        listaProductos: "$listaProductos",
       },
   },
   {
@@ -63,7 +62,7 @@
         _id: {
           nro_sucursal: "$_id",
           tipo_producto:
-            "$listaProductos.tipo_producto",
+            "$listaProductos.tipoProducto",
         },
         cantidad_ventas: {
           $sum: "$listaProductos.cantidad",
