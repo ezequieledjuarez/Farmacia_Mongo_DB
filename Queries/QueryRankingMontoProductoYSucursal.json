@@ -33,8 +33,8 @@
        * fieldN: The first field name.
        */
       {
-        _id: "$nroSucursal",
-        listaProductos: "$listaProductos",
+        _id: "$nro_sucursal",
+        listaProductos: "$lista_productos",
       },
   },
   {
@@ -61,7 +61,7 @@
         _id: {
           nro_sucursal: "$_id",
           tipo_producto:
-            "$listaProductos.tipoProducto",
+            "$listaProductos.tipo_producto",
         },
         cantidad_ventas: {
           $sum: "$listaProductos.cantidad",
