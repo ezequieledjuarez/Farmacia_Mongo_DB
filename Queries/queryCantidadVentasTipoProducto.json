@@ -38,7 +38,7 @@ fecha hasta)**/
        *   toggle to unwind null and empty values.
        */
       {
-        path: "$lista_productos",
+        path: "$listaProductos",
         includeArrayIndex: "string",
         preserveNullAndEmptyArrays: true,
       },
@@ -50,9 +50,9 @@ fecha hasta)**/
        * fieldN: The first field name.
        */
       {
-        _id: "$lista_productos.tipo_producto",
+        _id: "$listaProductos.tipoProducto",
         cantidad_ventas: {
-          $sum: "$lista_productos.cantidad",
+          $sum: "$listaProductos.cantidad",
         },
       },
   },
