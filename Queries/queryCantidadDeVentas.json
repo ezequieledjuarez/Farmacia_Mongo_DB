@@ -36,11 +36,10 @@ fecha hasta).*/
        * _id: The id of the group.
        * fieldN: The first field name.
        */
-
       {
-        _id: "$nro_sucursal",
-        count: {
-          $sum: 1,
+        _id: "$nroSucursal",
+        total_ventas: {
+          $sum: "$totalFactura",
         },
       },
   },
@@ -55,11 +54,12 @@ fecha hasta).*/
         ventas: {
           $push: {
             sucursal: "$_id",
-            cantidad: "$count",
+            total_ventas_sucursal:
+              "$total_ventas",
           },
         },
         total_ventas: {
-          $sum: "$count",
+          $sum: "$total_ventas",
         },
       },
   },
