@@ -1,3 +1,6 @@
+/**4. Un reporte con las cantidades de ventas agrupadas por tipo de producto (farmacia /
+perfumería). Todo esto debe ocurrir entre dos fechas pasadas como parámetros (fecha desde y
+fecha hasta)**/
 [
   {
     $addFields:
@@ -35,7 +38,7 @@
        *   toggle to unwind null and empty values.
        */
       {
-        path: "$listaProductos",
+        path: "$lista_productos",
         includeArrayIndex: "string",
         preserveNullAndEmptyArrays: true,
       },
@@ -47,9 +50,9 @@
        * fieldN: The first field name.
        */
       {
-        _id: "$listaProductos.tipoProducto",
+        _id: "$lista_productos.tipo_producto",
         cantidad_ventas: {
-          $sum: "$listaProductos.cantidad",
+          $sum: "$lista_productos.cantidad",
         },
       },
   },
