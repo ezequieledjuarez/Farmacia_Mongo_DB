@@ -1,3 +1,4 @@
+/* CAMBIAR DE CARPETA O BORRAR ARCHIVO */
 db.getCollection('venta').aggregate(
   [
     {
