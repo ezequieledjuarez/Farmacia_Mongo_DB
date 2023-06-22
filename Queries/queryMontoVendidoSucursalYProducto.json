@@ -1,3 +1,5 @@
+/*5. Ranking de monto vendido, agrupado por producto y por sucursal*/
+
 [
   {
     $addFields:
