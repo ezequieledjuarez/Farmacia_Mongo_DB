@@ -1,3 +1,6 @@
+/* 8. Ranking compras agrupadas por cliente y por sucursal. (quiero ver como compraron los
+clientes intra-sucursal)
+ */
 [
   {
     $group:
@@ -36,4 +39,5 @@
         total_ventas: -1,
       },
   },
+  { $sort: { total_ventas: -1 } }
 ]
